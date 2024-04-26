@@ -31,7 +31,7 @@
 <h3>- Public Relations - 2nd Year</h3>
     
 <h2>11. Gourav Mandal</h2>
-<h3>- Public Relations - 2nd Year</h3>
+<h3>- Public Relations - 1st Year</h3>
 
 
 <h2>12. Pushp</h2>
